@@ -1,17 +1,3 @@
-/**
- * Shopping List Application - Enhanced Version
- * 
- * Improvements:
- * - Undo functionality
- * - Toast notifications
- * - Edit items
- * - Better error handling
- * - Help documentation
- * - Tooltips
- * - Dark mode support
- * - Enhanced accessibility
- */
-
 // DOM Elements
 const productInput = document.getElementById('productInput');
 const quantityInput = document.getElementById('quantityInput');
